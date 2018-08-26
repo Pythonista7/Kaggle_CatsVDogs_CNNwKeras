@@ -1,6 +1,10 @@
 # Kaggle_CatsVDogs_CNNwKeras
 
+Link to dataset : https://www.kaggle.com/c/kmlc-challenge-1-cats-vs-dogs/data
+
+
 Version-1 <br>
+File Name : catsvsdogs_V1.py <br>
 Conv2D layer 1<br>
 Conv2D layer 2<br>
 Conv2D layer 3<br>
